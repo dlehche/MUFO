@@ -85,3 +85,19 @@ Detailed ontology structures and reasoning rules are not yet released.
 MoveTips Project  
 https://www.movetips.cn# MUFO
 MUFO: MoveTips Unified Functional Ontology — A unified ontology for describing human functional states, constraints, and decision boundaries.
+
+## Citation
+
+If you use MUFO in research, please cite:
+
+Che, Lei (2026).  
+MUFO: MoveTips Unified Functional Ontology.  
+https://github.com/dlehche/MUFO
+
+## Ontology Status
+
+MUFO is currently under active development.
+
+Only conceptual descriptions are public.
+
+The formal ontology schema and reasoning rules will be released in future versions.
